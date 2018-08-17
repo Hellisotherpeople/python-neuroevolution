@@ -1,4 +1,4 @@
-# python-neuroevolution
+# Python-neuroevolution
 An implementation of "Conventional Neuroevolution" - evolving ANNs without backpropegation
 
 An implementation of a simple 3 layer ANN, which evolvs it's weights using a Genetic Algorithim. 
