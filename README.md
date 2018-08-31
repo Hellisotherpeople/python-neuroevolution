@@ -1,4 +1,8 @@
 # Python-neuroevolution
+
+![](https://raw.githubusercontent.com/Hellisotherpeople/python-neuroevolution/master/neuroevolution.gif)
+
+
 An implementation of "Conventional Neuroevolution" - evolving ANNs without backpropegation
 
 An implementation of a simple 3 layer ANN, which evolves it's weights using a Genetic Algorithim instead of the traditional "Backpropegation" method. 
